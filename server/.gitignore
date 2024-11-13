@@ -1,0 +1,7 @@
+# python gitignore
+*.pyc
+*/.venv
+
+*.bin
+beit3
+beit3-retrieval-pth

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "tasks": {
+    "build": {
+      "inputs": ["web/src/**"],
+      "outputs": ["web/dist/**"],
+      "dependsOn": ["lint"]
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true
+    },
+    "lint": {},
+    "pretty": {},
+    "pretty-fix": {
+      "cache": false,
+      "persistent": false
+    }
+  }
+}
