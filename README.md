@@ -20,6 +20,38 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+# Demo
+
+[![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_circle_%282017%29.svg)](https://www.youtube.com/watch?v=ABvnGxim7aY)  
+[**Click here to watch the demo**](https://www.youtube.com/watch?v=ABvnGxim7aY)
+
+---
+
+## Screenshots and Visuals
+
+### 1. Search Interface and Retrieval Results
+![Placeholder for Search Interface Screenshot](img\image_1.png)
+
+---
+
+### 2. Retrieval Results
+![Placeholder for Retrieval Results Screenshot](img\image_2.png)
+
+---
+
+### 3. Video Context Visualization on youtube
+![Placeholder for Video Context Visualization Screenshot](img\image_3.png)
+
+---
+
+## Description
+
+This is a demo of the **Image Retrieval and Temporary Search** system. The video showcases:
+1. The text-based search functionality.
+2. How keyframes and neighboring frames are retrieved based on cosine similarity.
+3. Integration with YouTube, allowing users to jump directly to the relevant part of the video.
+
+
 # Deloy BEIT3 for web server
 
 
