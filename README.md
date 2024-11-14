@@ -33,13 +33,13 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ---
 
-### 2. Retrieval Results
+### 2. Use Temporary search 
 ![](img/image_2.png)
 
 ---
 
 ### 3. Video Context Visualization on youtube
-![](img\image_3.png)
+![](img/image_3.png)
 
 ---
 
