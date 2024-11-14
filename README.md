@@ -20,17 +20,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Deloy BEIT3 for web server
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Make key frame use Trannetvs
 
-## Deploy on Vercel
+A video consists of many frames sequenced together to form the video. However, when users retrieve a video, they often want to find a specific event in it. Many frames in a video may display the same scene, which makes them redundant and unnecessary.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We use **TransnetV2**, a model that can recognize scene transitions. For each scene, we select 4 keyframes: the first frame, the frame at 1/4 of the scene's duration, the frame at 3/4 of the scene's duration, and the final frame.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
