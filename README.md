@@ -22,7 +22,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 # Demo
 
-[![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_circle_%282017%29.svg)](https://www.youtube.com/watch?v=ABvnGxim7aY)  
 [**Click here to watch the demo**](https://www.youtube.com/watch?v=ABvnGxim7aY)
 
 ---
@@ -30,17 +29,17 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Screenshots and Visuals
 
 ### 1. Search Interface and Retrieval Results
-![Placeholder for Search Interface Screenshot](img\image_1.png)
+![](img/image_1.png)
 
 ---
 
 ### 2. Retrieval Results
-![Placeholder for Retrieval Results Screenshot](img\image_2.png)
+![](img/image_2.png)
 
 ---
 
 ### 3. Video Context Visualization on youtube
-![Placeholder for Video Context Visualization Screenshot](img\image_3.png)
+![](img\image_3.png)
 
 ---
 
